@@ -176,11 +176,11 @@
 
 /* Slider */
 #slider{
-    width: 99%;
     background-color: #FFF1D9;
     float: left;
     margin-bottom: 10px;
     margin-left: 10px;
+    margin-right: 10px;
 }
 #slider h2{    
     color: #db4791;
