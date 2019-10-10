@@ -132,10 +132,11 @@
 
 /* Sildebar */
 #sildebar{
-    width: 300px;
+    width: 290px;
     background:rgb(240, 252, 252);
     float:left;
-    clear: right;    
+    clear: right;  
+    margin-right: 10px;    
 }
 #sildebar .quangcaoSb1{
     height: 700px;
